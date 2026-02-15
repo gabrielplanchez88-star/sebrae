@@ -1,0 +1,12 @@
+{
+  "name": "sistema-conhecimento-sebrae-netlify",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "upload": "node scripts/upload_docs_to_vector_store.js"
+  },
+  "dependencies": {
+    "openai": "^4.56.0"
+  }
+}

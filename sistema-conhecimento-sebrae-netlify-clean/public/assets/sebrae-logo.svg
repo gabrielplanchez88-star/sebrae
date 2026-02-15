@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="160" viewBox="0 0 520 160" role="img" aria-label="Logo Sebrae (substitua pelo arquivo oficial)">
+  <rect x="2" y="2" width="516" height="156" rx="22" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="4"/>
+  <g fill="rgba(231,234,242,0.9)">
+    <text x="40" y="92" font-family="Arial, sans-serif" font-size="44" font-weight="700">SEBRAE</text>
+    <text x="40" y="124" font-family="Arial, sans-serif" font-size="16" opacity="0.8">
+      Substitua este arquivo pelo logo oficial.
+    </text>
+  </g>
+</svg>
